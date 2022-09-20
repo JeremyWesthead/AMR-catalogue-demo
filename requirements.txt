@@ -1,6 +1,6 @@
 wheel
 setuptools>=42
-importlib
+importlib-metadata
 gumpy>=1.0.11
 piezo>=0.3
 git+https://github.com/oxfordmmm/gnomon.git@main
