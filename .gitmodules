@@ -1,0 +1,4 @@
+[submodule "tuberculosis_amr_catalogues"]
+	path = tuberculosis_amr_catalogues
+	url = https://github.com/oxfordmmm/tuberculosis_amr_catalogues.git
+	branch = public
